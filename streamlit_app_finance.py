@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 st.write("""
-#STOCK PRICE: GOOGLE
+STOCK PRICE: GOOGLE
 """)
 
 tickerSymbol = 'GOOGL'
